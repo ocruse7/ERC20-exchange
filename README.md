@@ -1,4 +1,4 @@
-# Distributed ERC20 tokens exchange dApp
+# Distributed ERC20 tokens exchange DApp
 
 Written in solidity
 Testing in Javascript
