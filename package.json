@@ -1,0 +1,9 @@
+{
+    "name": "ethereum_exchange",
+    "version": "1.0.0",
+    "author": "Owen Cruse",
+    "dependencies": {
+        "openzeppelin-solidity": "^1.9.0",
+        "truffle": "^5.3.6"
+    }
+}
